@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>cowoker2</h1>
+	<a href="master.jsp">master.jsp로 이동</a>
 </body>
 </html>
